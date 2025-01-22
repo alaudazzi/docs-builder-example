@@ -21,5 +21,3 @@ You can use these APIs to interface with Elastic Security features:
 * [Cases API](https://www.elastic.co/docs/api/doc/kibana/group/endpoint-cases): Open and manage cases
 * [Elastic AI Assistant API](https://www.elastic.co/docs/api/doc/kibana/group/endpoint-security-ai-assistant-api): Interact with and manage Elastic AI Assistant
 * [Asset criticality API](https://www.elastic.co/docs/api/doc/kibana/group/endpoint-security-entity-analytics-api): Create and manage asset criticality records
-
-Additionally, the Kibana Actions API is partially documented to enable opening and updating cases in external ticketing systems. For more information on Kibana Actions, see Alerting and Actions and action plugins.
