@@ -17,7 +17,7 @@ You can use these APIs to interface with Elastic Security features:
 * [Detections API](https://www.elastic.co/docs/api/doc/kibana/v8/group/endpoint-security-detections-api): Manage detection rules and alerts
 * Exceptions API: Create and manage rule exceptions
 * [Lists API](https://www.elastic.co/docs/api/doc/kibana/group/endpoint-security-lists-api): Create source event value lists for use with rule exceptions
-* Timeline API: Import and export timelines
+* [Timeline API](https://www.elastic.co/docs/api/doc/kibana/group/endpoint-security-timeline-api): Import and export timelines
 * Cases API: Open and manage cases
 * Elastic AI Assistant API: Interact with and manage Elastic AI Assistant
 * Asset criticality API: Create and manage asset criticality records
