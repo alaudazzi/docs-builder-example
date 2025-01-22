@@ -14,7 +14,7 @@ This section of the documentation contains reference information for Elastic Sec
 
 You can use these APIs to interface with Elastic Security features:
 
-* Detections API: Manage detection rules and alerts
+* [Detections API](https://www.elastic.co/docs/api/doc/kibana/v8/group/endpoint-security-detections-api): Manage detection rules and alerts
 * Exceptions API: Create and manage rule exceptions
 * Lists API: Create source event value lists for use with rule exceptions
 * Timeline API: Import and export timelines
