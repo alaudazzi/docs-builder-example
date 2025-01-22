@@ -1,9 +1,9 @@
 ---
- title: Ingestion Tools Reference
+ title: Ingestion tools Reference
  navigation_title: "Ingestion tools reference"
  ---
 
-This section contains reference information for Ingestion Tools, including:
+This section contains reference information for ingestion tools, including:
 
 * Fleet and agent
 * APM
